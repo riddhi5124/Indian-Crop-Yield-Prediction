@@ -108,20 +108,3 @@ crop-yield-prediction/
     └── screenshots/              ← Charts and visualisations
 ```
 
----
-
-## 👥 Contributors
-
-Built as a collaborative project.
-
-| Name | contribution |
-|---|---|
-| Riddhiman Mazumder | [Your specific contribution — e.g. Feature engineering, model training & evaluation] |
-| [Teammate 2] | [Their contribution] |
-| [Teammate 3] | [Their contribution] |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
